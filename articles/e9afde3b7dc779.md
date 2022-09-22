@@ -52,6 +52,11 @@ const Table: React.VFC<TableProps> = ({ color, data }) => {
 
 ## React.FC or React.VFC 
 
+:::message alert
+React v18 から React.VFC は非推奨になりました。
+代わりに Rect.FC から children の型がなくなっているため、React.VFC を React.FC にそのまま置き換えてください。
+:::
+
 関数コンポーネントの型付けを便利にしてくれます。
 FCは`FunctionComponent`の略称、VFCは`VoidFunctionComponent`の略称です。
 
