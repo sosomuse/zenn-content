@@ -1,22 +1,22 @@
 {
   "name": "zenn-content",
   "version": "1.0.0",
-  "description": " ",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sosocean/zenn-content.git"
+    "url": "git+https://github.com/sosomuse/zenn-content.git"
   },
   "keywords": [],
   "author": "So Nishimura",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sosocean/zenn-content/issues"
+    "url": "https://github.com/sosomuse/zenn-content/issues"
   },
-  "homepage": "https://github.com/sosocean/zenn-content#readme",
+  "homepage": "https://github.com/sosomuse/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.1.128"
   }
