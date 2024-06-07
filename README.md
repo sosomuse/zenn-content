@@ -5,5 +5,7 @@
 ## Usage
 
 ```
+npx zenn new:article
+
 npx zenn preview
 ```
