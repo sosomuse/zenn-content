@@ -1,5 +1,5 @@
 ---
-title: "TiDB採用の前に知っておきたい基礎知識をまとめてみた"
+title: "次世代型DB TiDB採用の前に知っておきたい基礎知識"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tidb", "database", "mysql"]
