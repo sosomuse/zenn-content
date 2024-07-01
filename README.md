@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-npx zenn new:article
+npx zenn new:article --slug <SLUG>
 
 npx zenn preview
 ```
